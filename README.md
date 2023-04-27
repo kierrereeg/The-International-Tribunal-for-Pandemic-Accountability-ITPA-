@@ -1,5 +1,5 @@
 # The-International-Tribunal-for-Pandemic-Accountability-ITPA-
-Justitia Omnibus: Fiat Justitia Ruat Caelum
+Justitia Omnibus | Fiat Justitia Ruat Caelum
 ![trader11_The_scales_of_justice_the_torch_of_truth_and_the_spect_db29da97-52a9-462f-adbf-b484dd378453](https://user-images.githubusercontent.com/20628130/234981948-c0d10d3a-a5bd-449c-bb4b-2d619619e843.png)
 
 
