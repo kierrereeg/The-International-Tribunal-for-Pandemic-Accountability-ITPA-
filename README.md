@@ -2,8 +2,7 @@
 ![trader11_The_scales_of_justice_the_torch_of_truth_and_the_spect_db29da97-52a9-462f-adbf-b484dd378453](https://user-images.githubusercontent.com/20628130/234981948-c0d10d3a-a5bd-449c-bb4b-2d619619e843.png)
 
 
-The International Tribunal for Pa![Uploading trader11_The_scales_of_justice_the_torch_of_truth_and_the_spect_db29da97-52a9-462f-adbf-b484dd378453.png…]()
-ndemic Accountability (ITPA) - Overview & Mission
+The International Tribunal for Pandemic Accountability (ITPA) - Overview & Mission
 
 In the wake of the unprecedented global crisis brought on by the COVID-19 pandemic, millions of lives have been lost, economies shattered, and countless individuals have suffered immeasurable pain and loss. As we collectively strive to rebuild and recover from the devastation, it has become increasingly evident that there is an urgent need to address the myriad of concerns, questions, and potential wrongdoings that have arisen during this period of turmoil.
 
