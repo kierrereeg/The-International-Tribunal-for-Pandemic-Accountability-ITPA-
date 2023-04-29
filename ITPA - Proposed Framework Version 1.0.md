@@ -3,7 +3,8 @@
 <!-- Yay, no errors, warnings, or alerts! -->
 
 <h2>The International Tribunal for Pandemic Accountability (ITPA)</h2>
-![trader11_The_scales_of_justice_the_torch_of_truth_and_the_spect_db29da97-52a9-462f-adbf-b484dd378453](https://user-images.githubusercontent.com/20628130/235310272-a357bcd5-6a7e-407b-b173-465a7ef5bdbf.png)
+![trader11_The_scales_of_justice_the_torch_of_truth_and_the_spect_db29da97-52a9-462f-adbf-b484dd378453 copy](https://user-images.githubusercontent.com/20628130/235310331-1b1dd988-49c9-4646-b076-75c3a6cf17e8.png)
+
 
 
 
