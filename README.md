@@ -14,3 +14,15 @@ Together, we must push our representatives, create organizations, establish onli
 
 With the Discord server as one of the main hubs for the ITPA DAO, we present a detailed and comprehensive plan for the establishment of the International Tribunal for Pandemic Accountability. As you engage with the community and explore the proposal, we invite you to join us in this fight for justice, transparency, and accountability. Our task may be monumental, but our determination is unwavering, and our cause is just. United in our efforts, we can make the ITPA DAO a reality and ensure that the mistakes of the past are not repeated, and that the legacy of the COVID-19 pandemic serves as a powerful reminder of our collective responsibility to protect and care for one another.
 This is our moment to stand up, to come together, and to create a better future. We call on each and every one of you to heed this call, to join us in this noble endeavor, and to contribute to the growth and evolution of the International Tribunal for Pandemic Accountability DAO. Together, we will forge a new path towards a world that is more just, more accountable, and more prepared for the challenges that lie ahead. Let us transform our collective grief into a driving force for change, and let the ITPA DAO be a living testament to the power of the human spirit and the unbreakable bonds that connect us all.
+
+In this repository you will find markdown files of relevant documentation, this can be used for Version control of the documentation in the project. 
+
+1. The International Tribunal for Pandemic Accountability (ITPA)
+   ITPA - Proposed Framework - Version 1.0      Justitia Omnibus | Fiat Justitia Ruat Caelum
+ 
+
+2. The International Tribunal for Pandemic Accountability (ITPA)
+   ITPA - Strategic Overview - Version 1.0      Justitia Omnibus | Fiat Justitia Ruat Caelum
+  
+  
+ This repository can also serve as the main repository for the website and any other technological needs of the project. 
