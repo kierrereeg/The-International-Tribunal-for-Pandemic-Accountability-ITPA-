@@ -2339,14 +2339,14 @@ To maximize the benefits of partnerships and collaborations, the ITPA should:
 
 
 1. Set clear expectations: Clearly outline the roles, responsibilities, and expectations of each partner to ensure a productive and effective collaboration.
-2. 
-3. Foster trust and openness: Build trust through open communication, transparency, and mutual respect.
-4. 
-5. Leverage complementary strengths: Capitalize on the unique strengths and expertise of each partner to enhance the overall effectiveness of the collaboration.
-6. 
-7. Monitor and evaluate partnership performance: Regularly assess the progress and effectiveness of partnerships, and make adjustments as necessary to improve the collaboration.
-8. 
-9. Celebrate successes and share lessons learned: Recognize the achievements of the partnership and share the lessons learned to promote continuous improvement and growth.
+
+2. Foster trust and openness: Build trust through open communication, transparency, and mutual respect.
+ 
+3. Leverage complementary strengths: Capitalize on the unique strengths and expertise of each partner to enhance the overall effectiveness of the collaboration.
+ 
+4. Monitor and evaluate partnership performance: Regularly assess the progress and effectiveness of partnerships, and make adjustments as necessary to improve the collaboration.
+ 
+5. Celebrate successes and share lessons learned: Recognize the achievements of the partnership and share the lessons learned to promote continuous improvement and growth.
 
 By fostering strong partnerships and collaborations with organizations and institutions, the ITPA can enhance its capacity to promote accountability and justice in pandemic response and prevention. These partnerships will be essential in addressing the complex challenges associated with pandemic management, ultimately contributing to a more effective, transparent, and accountable global response to public health crises.
 
